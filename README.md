@@ -4,7 +4,7 @@
 
 面部捕捉重定向小测试，顺便东拼西凑实现了仿原神渲染和物理模拟等特性，属于是缝合各路大佬教程的技术验证产物。
 
-![image-20220820192704475](/Users/yif/Downloads/ZJUPasscode-main/images/image-20220820192704475.png)
+![image-20220820192704475](images/image-20220820192704475.png)
 
 ## Getting Started
 
@@ -23,23 +23,23 @@
 
 进入App Store搜索“Unity Face Capture”下载安装。
 
-![IMG_623E3E478E09-1](/Users/yif/Downloads/ZJUPasscode-main/images/IMG_623E3E478E09-1.jpeg)
+![IMG_623E3E478E09-1](images/IMG_623E3E478E09-1.jpeg)
 
 ### Documentation
 
 1. 检查你的网络，电脑端与移动端应用通过网络通信，二者需处于同一局域网下并没有启用网络代理，确保电脑系统防火墙给予应用程序网络传入连接权限（在Windows上你可能还需要将Wi-Fi设置为专用连接）；
 
-   <img src="/Users/yif/Downloads/ZJUPasscode-main/images/Handle_Plain.jpg" alt="Handle_Plain"  />
+   ![Handle_Plain](images/Handle_Plain.jpg)
 
 2. 解压电脑端zip包，Windows PC运行.exe程序，Mac运行.app应用，此时软件正在等待面捕设备连接；
 
 3. 在iOS设备上打开Face Capture应用，使用自动搜索或者手动输入ip地址方式连接，首次连接可能需要手动填写ip地址（Windows和macOS可以分别使用ipconfig和ifconfig命令查询），端口设置为9000；
 
-   ![IMG_7C72245131FE-1](/Users/yif/Downloads/ZJUPasscode-main/images/IMG_7C72245131FE-1.jpeg)
+   ![IMG_7C72245131FE-1](images/IMG_7C72245131FE-1.jpeg)
 
 4. 🎉你可以将其添加到OBS等软件中愉快使用了。
 
-   ![2022-08-20 19-57-27-动画图像（大）](/Users/yif/Downloads/ZJUPasscode-main/images/2022-08-20 19-57-27-动画图像（大）.gif)
+   ![2022-08-20](images/2022-08-20 19-57-27.gif)
 
 ## License
 
